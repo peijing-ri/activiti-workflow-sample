@@ -1,5 +1,5 @@
 // パッケージを指定（ソースファイル場所）
-package org.activiti.examples;
+package com.example.demo;
 
 
 import java.util.List;
@@ -36,3 +36,4 @@ public class DemoApplication implements CommandLineRunner {
     public void run(String... args) {
     }
 }
+
